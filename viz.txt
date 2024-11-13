@@ -2,3 +2,4 @@ Brainstorming data visualization
 Scatterplot
 Time series
 Pie chart
+Bar chart
